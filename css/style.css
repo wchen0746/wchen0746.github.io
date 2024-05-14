@@ -106,10 +106,8 @@ footer {
     text-align: center;
 }
 
+/* Source page styles */
 .source-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     margin-bottom: 40px;
 }
 
@@ -120,9 +118,7 @@ footer {
 }
 
 .source-description {
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
+    text-align: justify;
 }
 
 .navigation-buttons {
